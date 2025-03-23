@@ -32,32 +32,20 @@ Welcome to **IT Solutions** – a professional and modern company portfolio webs
 
 ## 🛠 Tech Stack Powering IT Solutions
 
-- **Frontend:** React.js + Tailwind CSS ⚡
-- **Hosting & Deployment:** Vercel 🚀
+- **Frontend:** HTML, CSS, JavaScript ⚡
 - **Version Control:** Git & GitHub 🛠
 
 ## 🔧 Installation & Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vibhu2208/It-Solutions.git
+   git clone https://github.com/AnkitRaj05/IT-solution.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd It-Solutions
+   cd IT-solution
    ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-5. **Open the browser and visit:**
-   ```
-   http://localhost:3000
-   ```
+3. **Open index.html in your browser**
 
 ## 📜 License
 This project is licensed under the **MIT License** – explore, modify, and contribute freely!
